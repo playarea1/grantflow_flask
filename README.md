@@ -4,6 +4,16 @@
 
 A Flask application template with the boilerplate code already done for you.
 
+## This Repository
+
+Clone this repository with:
+
+```bash
+git clone https://github.com/playarea1/grantflow_flask.git
+cd grantflow_flask
+```
+
+This project is based on the [Hack4Impact Flask Base template](https://github.com/hack4impact/flask-base).
 
 **Documentation available at [http://hack4impact.github.io/flask-base](http://hack4impact.github.io/flask-base).**
 
