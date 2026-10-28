@@ -13,8 +13,6 @@ git clone https://github.com/playarea1/grantflow_flask.git
 cd grantflow_flask
 ```
 
-This project is based on the [Hack4Impact Flask Base template](https://github.com/hack4impact/flask-base).
-
 **Documentation available at [http://hack4impact.github.io/flask-base](http://hack4impact.github.io/flask-base).**
 
 ## What's included?
@@ -51,14 +49,10 @@ Admin Editing Users:
 
 ## Setting up
 
-##### Create your own repository from this Template
-
-Navigate to the [main project page](https://github.com/hack4impact/flask-base) and click the big, green "Use this template" button at the top right of the page. Give your new repository a name and save it.
-
 ##### Clone the repository 
 
 ```
-$ git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+$ git clone https://github.com/playarea1/grantflow_flask
 $ cd REPO_NAME
 ```
 
@@ -162,8 +156,6 @@ _Mac (using homebrew):_
 brew install postgresql
 ```
 
-_Linux (based on this [issue](https://github.com/hack4impact/flask-base/issues/96)):_
-
 ```
 sudo apt-get install libpq-dev
 ```
@@ -196,14 +188,12 @@ $ source env/bin/activate
 $ honcho start -e config.env -f Local
 ```
 
-For Windows users having issues with binding to a redis port locally, refer to [this issue](https://github.com/hack4impact/flask-base/issues/132).
-
 ## Gettin up and running with Docker and docker-compose:
 
 ##### Clone the repository 
 ```
-$ git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-$ cd REPO_NAME
+$ git clone https://github.com/playarea1/grantflow_flask
+$ cd grantflow_flask
 ```
 ##### Create and run the images:
 
